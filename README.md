@@ -3,14 +3,18 @@ Este repositório contém projetos e exemplos de código de um curso para aprend
 
 # Index
 
-* [Lições](#lições)
-
+* [Projeto Final](#projeto-final)
+* [Fluxo Node-RED](#fluxo-node-red)
+* [Aulas](#aulas)
 
 # Projeto Final
 
 
-# Fluxo Node-RED de Exemplo
+
+# Fluxo Node-RED
 Este repositório contém um fluxo de exemplo criado no Node-RED para demonstrar diferentes funcionalidades.
+
+[Fluxo](https://github.com/Cry199/HackaTruck-Swift/blob/main/SaveMoneyNodeRed.json)
 
 ## Visão Geral
 O fluxo implementa as seguintes operações:
@@ -48,8 +52,11 @@ Exibe os valores numéricos em um gauge para visualização.
 
 - Utiliza um node HTTP para atualizar o gauge com os valores lidos do banco de dados.
 
+
 ### Executando Localmente
 Para executar o fluxo localmente:
+
+[Fluxo](https://github.com/Cry199/HackaTruck-Swift/blob/main/SaveMoneyNodeRed.json)
 
 - Instale o Node-RED
 - Abra e importe o fluxo flow.json
@@ -57,8 +64,11 @@ Para executar o fluxo localmente:
 - Deploy e acesse os endpoints HTTP para testar
 - O fluxo pode ser modificado e estendido livremente para adicionar novas funcionalidades.
 
+### Licença
+- Este fluxo é disponibilizado gratuitamente sem nenhuma garantia sob os termos da licença MIT.
 
-# Lições
+# Aulas
+
 ## 1 - Introdução ao Swift e Xcode
 
 - Variáveis, constantes, tipos de dados
@@ -66,6 +76,8 @@ Para executar o fluxo localmente:
 - Funções
 - Classes e structs
 - Xcode e interface builder
+
+- [Projeto Da Aula](https://github.com/Cry199/HackaTruck-Swift/tree/main/Aula-1-Swift/Aula-1-Swift)
  
 ## 2 - Calculadora de IMC
 
@@ -75,21 +87,29 @@ Para executar o fluxo localmente:
 - Exibindo resultados formatados
 - TabView e Navigation
 
+- [Projeto Da Aula](https://github.com/Cry199/HackaTruck-Swift/tree/main/Aula-2-Swift/Aula-2-Swift)
+
 ## 3 - TabBarController
 - ViewControllers
 - NavigationController
 - Passando dados entre telas
+
+- [Projeto Da Aula](https://github.com/Cry199/HackaTruck-Swift/tree/main/Aula-3-Swift/Aula-3-Swift)
   
 ## 4 - Lista - Fake app Spotify
 - TableViews
 - Custom cells
 - Navigation em lista
 
+- [Projeto Da Aula](https://github.com/Cry199/HackaTruck-Swift/tree/main/Aula-4-Swift/Aula-4-Swift)
+
 ## 5 - MapKit
 
 - Mostrar mapa
 - Adicionar pontos e anotações
 - Recuperar localização do usuário
+
+- [Projeto Da Aula 5](https://github.com/Cry199/HackaTruck-Swift/tree/main/Aula-5-Swift/Aula-5-Swift)
 
 ## 6 - Consumindo API Do Don-Red
 
@@ -98,12 +118,16 @@ Para executar o fluxo localmente:
 - Exibindo dados de API
 - Lidando com imagens
 
+- [Projeto Da Aula 6](https://github.com/Cry199/HackaTruck-Swift/tree/main/Aula-6-Swift/Aula-6-Swift)
+
 ## 7 - Consumindo API Externa
 
 - Requisições web com URLSession
 - Decodificando JSON
 - Exibindo dados de API
 - Lidando com imagens
+
+- [Projeto Da Aula 7](https://github.com/Cry199/HackaTruck-Swift/tree/main/aula-7-Swift/aula-7-Swift)
 
 Cada lição possui seu próprio playground ou projeto Xcode demostrando os conceitos apresentados.
 
