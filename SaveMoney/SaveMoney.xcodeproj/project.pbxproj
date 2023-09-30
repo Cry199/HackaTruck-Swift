@@ -1,0 +1,380 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F31DA9BA2AC73B5D004EF5D9 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = F31DA9B92AC73B5D004EF5D9 /* Model.swift */; };
+		F38624E72AC3601C001E7C3B /* SaveMoneyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F38624E62AC3601C001E7C3B /* SaveMoneyApp.swift */; };
+		F38624E92AC3601C001E7C3B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F38624E82AC3601C001E7C3B /* ContentView.swift */; };
+		F38624EB2AC3601C001E7C3B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F38624EA2AC3601C001E7C3B /* Assets.xcassets */; };
+		F38624EE2AC3601C001E7C3B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F38624ED2AC3601C001E7C3B /* Preview Assets.xcassets */; };
+		F3A511FF2AC363130074A831 /* TelaBoasVindas.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3A511FE2AC363130074A831 /* TelaBoasVindas.swift */; };
+		F3A512012AC364040074A831 /* ComoComecar.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3A512002AC364040074A831 /* ComoComecar.swift */; };
+		F3A512032AC3689A0074A831 /* ModelApiMarket.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3A512022AC3689A0074A831 /* ModelApiMarket.swift */; };
+		F3A512052AC368D50074A831 /* Noticias.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3A512042AC368D50074A831 /* Noticias.swift */; };
+		F3A512072AC36ACD0074A831 /* CalculadoraJuros.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3A512062AC36ACD0074A831 /* CalculadoraJuros.swift */; };
+		F3A512092AC378460074A831 /* ModelApiComecar.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3A512082AC378460074A831 /* ModelApiComecar.swift */; };
+		F3A5120D2AC4C59A0074A831 /* TextoInfoDetalhe.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3A5120C2AC4C59A0074A831 /* TextoInfoDetalhe.swift */; };
+		F3A5120F2AC4D0D90074A831 /* Validacao.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3A5120E2AC4D0D90074A831 /* Validacao.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		F31DA9B92AC73B5D004EF5D9 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		F38624E32AC3601C001E7C3B /* SaveMoney.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SaveMoney.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F38624E62AC3601C001E7C3B /* SaveMoneyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaveMoneyApp.swift; sourceTree = "<group>"; };
+		F38624E82AC3601C001E7C3B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		F38624EA2AC3601C001E7C3B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F38624ED2AC3601C001E7C3B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F3A511FE2AC363130074A831 /* TelaBoasVindas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaBoasVindas.swift; sourceTree = "<group>"; };
+		F3A512002AC364040074A831 /* ComoComecar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComoComecar.swift; sourceTree = "<group>"; };
+		F3A512022AC3689A0074A831 /* ModelApiMarket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelApiMarket.swift; sourceTree = "<group>"; };
+		F3A512042AC368D50074A831 /* Noticias.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Noticias.swift; sourceTree = "<group>"; };
+		F3A512062AC36ACD0074A831 /* CalculadoraJuros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculadoraJuros.swift; sourceTree = "<group>"; };
+		F3A512082AC378460074A831 /* ModelApiComecar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelApiComecar.swift; sourceTree = "<group>"; };
+		F3A5120C2AC4C59A0074A831 /* TextoInfoDetalhe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextoInfoDetalhe.swift; sourceTree = "<group>"; };
+		F3A5120E2AC4D0D90074A831 /* Validacao.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Validacao.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F38624E02AC3601B001E7C3B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F38624DA2AC3601B001E7C3B = {
+			isa = PBXGroup;
+			children = (
+				F38624E52AC3601C001E7C3B /* SaveMoney */,
+				F38624E42AC3601C001E7C3B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F38624E42AC3601C001E7C3B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F38624E32AC3601C001E7C3B /* SaveMoney.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F38624E52AC3601C001E7C3B /* SaveMoney */ = {
+			isa = PBXGroup;
+			children = (
+				F38624E62AC3601C001E7C3B /* SaveMoneyApp.swift */,
+				F38624E82AC3601C001E7C3B /* ContentView.swift */,
+				F3A5120C2AC4C59A0074A831 /* TextoInfoDetalhe.swift */,
+				F3A512062AC36ACD0074A831 /* CalculadoraJuros.swift */,
+				F3A512022AC3689A0074A831 /* ModelApiMarket.swift */,
+				F31DA9B92AC73B5D004EF5D9 /* Model.swift */,
+				F3A512042AC368D50074A831 /* Noticias.swift */,
+				F3A511FE2AC363130074A831 /* TelaBoasVindas.swift */,
+				F3A5120E2AC4D0D90074A831 /* Validacao.swift */,
+				F3A512002AC364040074A831 /* ComoComecar.swift */,
+				F3A512082AC378460074A831 /* ModelApiComecar.swift */,
+				F38624EA2AC3601C001E7C3B /* Assets.xcassets */,
+				F38624EC2AC3601C001E7C3B /* Preview Content */,
+			);
+			path = SaveMoney;
+			sourceTree = "<group>";
+		};
+		F38624EC2AC3601C001E7C3B /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				F38624ED2AC3601C001E7C3B /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F38624E22AC3601B001E7C3B /* SaveMoney */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F38624F12AC3601C001E7C3B /* Build configuration list for PBXNativeTarget "SaveMoney" */;
+			buildPhases = (
+				F38624DF2AC3601B001E7C3B /* Sources */,
+				F38624E02AC3601B001E7C3B /* Frameworks */,
+				F38624E12AC3601B001E7C3B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SaveMoney;
+			productName = SaveMoney;
+			productReference = F38624E32AC3601C001E7C3B /* SaveMoney.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F38624DB2AC3601B001E7C3B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1420;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					F38624E22AC3601B001E7C3B = {
+						CreatedOnToolsVersion = 14.2;
+					};
+				};
+			};
+			buildConfigurationList = F38624DE2AC3601B001E7C3B /* Build configuration list for PBXProject "SaveMoney" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				"pt-BR",
+			);
+			mainGroup = F38624DA2AC3601B001E7C3B;
+			productRefGroup = F38624E42AC3601C001E7C3B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F38624E22AC3601B001E7C3B /* SaveMoney */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F38624E12AC3601B001E7C3B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F38624EE2AC3601C001E7C3B /* Preview Assets.xcassets in Resources */,
+				F38624EB2AC3601C001E7C3B /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F38624DF2AC3601B001E7C3B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F3A512012AC364040074A831 /* ComoComecar.swift in Sources */,
+				F3A512052AC368D50074A831 /* Noticias.swift in Sources */,
+				F3A5120F2AC4D0D90074A831 /* Validacao.swift in Sources */,
+				F38624E92AC3601C001E7C3B /* ContentView.swift in Sources */,
+				F3A5120D2AC4C59A0074A831 /* TextoInfoDetalhe.swift in Sources */,
+				F3A511FF2AC363130074A831 /* TelaBoasVindas.swift in Sources */,
+				F3A512072AC36ACD0074A831 /* CalculadoraJuros.swift in Sources */,
+				F3A512092AC378460074A831 /* ModelApiComecar.swift in Sources */,
+				F31DA9BA2AC73B5D004EF5D9 /* Model.swift in Sources */,
+				F38624E72AC3601C001E7C3B /* SaveMoneyApp.swift in Sources */,
+				F3A512032AC3689A0074A831 /* ModelApiMarket.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		F38624EF2AC3601C001E7C3B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F38624F02AC3601C001E7C3B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F38624F22AC3601C001E7C3B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SaveMoney/Preview Content\"";
+				DEVELOPMENT_TEAM = 2828H4TMK7;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.savemoney.app.SaveMoney;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F38624F32AC3601C001E7C3B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SaveMoney/Preview Content\"";
+				DEVELOPMENT_TEAM = 2828H4TMK7;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.savemoney.app.SaveMoney;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F38624DE2AC3601B001E7C3B /* Build configuration list for PBXProject "SaveMoney" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F38624EF2AC3601C001E7C3B /* Debug */,
+				F38624F02AC3601C001E7C3B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F38624F12AC3601C001E7C3B /* Build configuration list for PBXNativeTarget "SaveMoney" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F38624F22AC3601C001E7C3B /* Debug */,
+				F38624F32AC3601C001E7C3B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F38624DB2AC3601B001E7C3B /* Project object */;
+}

@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "3D_Animation_Style_piggy_bank_reading_a_newspaper_4-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
