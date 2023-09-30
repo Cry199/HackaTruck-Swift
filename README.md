@@ -1,15 +1,40 @@
 # Curso de Desenvolvimento iOS com Swift
 Este repositório contém projetos e exemplos de código de um curso para aprender a desenvolver apps iOS utilizando Swift.
 
-# Index
+# Inicio
 
 * [Projeto Final](#projeto-final)
+  - [Apresentação Do Projeto Em PDF](#apresentação-do-projeto-em-pdf)
+  - [Video Do App](#video-do-app)
+  - [Aquivo Do App](#aquivo-do-app)
+  
 * [Fluxo Node-RED](#fluxo-node-red)
+  - [Visão Geral](#visão-geral)
+  - [Fluxos Principais](#fluxos-principais)
+  - [1. Operações CRUD](#1-operações-crud)
+  - [2. Watson Speech-to-Text e Text-to-Speech](#2-watson-speech-to-text-e-text-to-speech)
+  - [3. Watson Translator](#3-watson-translator)
+  - [4. Interface Gráfica](#4-interface-gráfica) 
+  
 * [Aulas](#aulas)
+  - [1 - Introdução ao Swift e Xcode](#1-introdução-ao-swift-e-xcode)
+  - [2 - Calculadora de IMC](#2-calculadora-de-imc)
+  - [3 - TabBarController](#3-tabbarcontroller)
+  - [4 - Lista - Fake app Spotify](#4-lista---fake-app-spotify)
+  - [5 - MapKit](#5-mapkit)
+  - [6 - Consumindo API Do Don-Red](#6-consumindo-api-do-don-red)
+  - [7 - Consumindo API Externa](#7-consumindo-api-externa)
 
 # Projeto Final
 
+### Apresentação Do Projeto Em PDF
 [Apresentação Do Projeto](https://github.com/Cry199/HackaTruck-Swift/files/12773897/ApresentacaoFInal.pdf)
+
+### Video Do App 
+https://github.com/Cry199/HackaTruck-Swift/assets/56047994/42b7ab95-6982-49fe-892c-cc65b7bc363c
+
+### Aquivo Do App
+[Aquivo Do App](https://github.com/Cry199/HackaTruck-Swift/tree/main/SaveMoney/SaveMoney)
 
 # Fluxo Node-RED
 Este repositório contém um fluxo de exemplo criado no Node-RED para demonstrar diferentes funcionalidades.
@@ -69,7 +94,7 @@ Para executar o fluxo localmente:
 
 # Aulas
 
-## 1 - Introdução ao Swift e Xcode
+## 1. Introdução ao Swift e Xcode
 
 - Variáveis, constantes, tipos de dados
 - Operadores, condicionais, loops
@@ -79,7 +104,7 @@ Para executar o fluxo localmente:
 
 [Projeto Da Aula 1](https://github.com/Cry199/HackaTruck-Swift/tree/main/Aula-1-Swift/Aula-1-Swift)
  
-## 2 - Calculadora de IMC
+## 2. Calculadora de IMC
 
 - Criando UI com Auto Layout
 - Capturando entrada de usuário
@@ -89,21 +114,21 @@ Para executar o fluxo localmente:
 
 [Projeto Da Aula 2](https://github.com/Cry199/HackaTruck-Swift/tree/main/Aula-2-Swift/Aula-2-Swift)
 
-## 3 - TabBarController
+## 3. TabBarController
 - ViewControllers
 - NavigationController
 - Passando dados entre telas
 
 [Projeto Da Aula 3](https://github.com/Cry199/HackaTruck-Swift/tree/main/Aula-3-Swift/Aula-3-Swift)
   
-## 4 - Lista - Fake app Spotify
+## 4. Lista - Fake app Spotify
 - TableViews
 - Custom cells
 - Navigation em lista
 
 [Projeto Da Aula 4](https://github.com/Cry199/HackaTruck-Swift/tree/main/Aula-4-Swift/Aula-4-Swift)
 
-## 5 - MapKit
+## 5. MapKit
 
 - Mostrar mapa
 - Adicionar pontos e anotações
@@ -111,7 +136,7 @@ Para executar o fluxo localmente:
 
 [Projeto Da Aula 5](https://github.com/Cry199/HackaTruck-Swift/tree/main/Aula-5-Swift/Aula-5-Swift)
 
-## 6 - Consumindo API Do Don-Red
+## 6. Consumindo API Do Don-Red
 
 - Requisições web com URLSession
 - Decodificando JSON
@@ -120,7 +145,7 @@ Para executar o fluxo localmente:
 
 [Projeto Da Aula 6](https://github.com/Cry199/HackaTruck-Swift/tree/main/Aula-6-Swift/Aula-6-Swift)
 
-## 7 - Consumindo API Externa
+## 7. Consumindo API Externa
 
 - Requisições web com URLSession
 - Decodificando JSON
