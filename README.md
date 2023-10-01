@@ -136,7 +136,7 @@ Para executar o fluxo localmente:
 
 [Projeto Da Aula 5](https://github.com/Cry199/HackaTruck-Swift/tree/main/Aula-5-Swift/Aula-5-Swift)
 
-## 6. Consumindo API Do Don-Red
+## 6. Consumindo API Do Node-RED
 
 - Requisições web com URLSession
 - Decodificando JSON
